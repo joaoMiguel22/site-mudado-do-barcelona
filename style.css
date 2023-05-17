@@ -24,7 +24,7 @@ body{
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 25px 100px; 
+    margin: 25px 100px;
     font-size: 24px;
 }
 
@@ -34,7 +34,7 @@ body{
 }
 
 .escola{
-    background-image: linear-gradient(#e61919,#4169E1,#4169E1,#e61919);
+    background-image: linear-gradient(#ff6961,#4169E1,#4169E1);
     color: white;
     display: flex;
     justify-content: center;
@@ -69,7 +69,7 @@ body{
 
 .icones{
     width: 24px;
-    margin: 0px 20px; 
+    margin: 0px 20px;
 }
 
 .prof-nome{
@@ -91,13 +91,13 @@ body{
 }
 
 .professores{
-    background-image: linear-gradient(#009A04,#A7E5A9,#009A04,#A7E5A9);
+    background-image: linear-gradient(#00009C,#00009C,#ff6961);
     color: white;
 }
 
 .rodape{
     background-color: #000000;
     color: white;
-    text-align: right;
+    text-align: center;
     padding: 10px 0;
 }
